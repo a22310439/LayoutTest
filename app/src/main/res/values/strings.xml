@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout Test</string>
+    <string name="landscape">Landscape</string>
+    <string name="starOn">Star On</string>
+    <string name="titulo">Paisajes</string>
+    <string name="btnMeGusta">ME GUSTA</string>
+    <string name="btnNoMeGusta">NO ME GUSTA</string>
+    <string name="contMeGusta">0</string>
+    <string name="contNoMeGusta">0</string>
+</resources>
